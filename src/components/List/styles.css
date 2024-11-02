@@ -1,0 +1,30 @@
+.form-control {
+    margin: 8px; /* Equivalent to theme.spacing(1) */
+    min-width: 120px;
+    margin-bottom: 30px;
+  }
+  
+  .select-empty {
+    margin-top: 16px; /* Equivalent to theme.spacing(2) */
+  }
+  
+  .loading {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    padding: 25px;
+  }
+  
+  .margin-bottom {
+    margin-bottom: 30px;
+  }
+  
+  .list {
+    height: 75vh;
+    overflow: auto;
+  }
+  
